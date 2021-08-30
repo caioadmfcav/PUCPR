@@ -1,0 +1,5 @@
+git init
+git commit -m "teste 1 Caio"
+git commit -m "teste 2 Caio"
+git commit -m "teste 3 Caio"
+git commit -m "teste 4 Caio"
